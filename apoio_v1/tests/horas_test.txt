@@ -1,0 +1,3 @@
+0	1	treze   treze
+1   2   horas   horas
+2
